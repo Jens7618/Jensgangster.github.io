@@ -1,6 +1,12 @@
 <!DUCTYPE html>
 <style>
 <head>
+body {
+  text-align: center;
+      background: url('http://dash.ga.co/assets/jeff-bg.png');
+      background-size: cover;
+      color: white;
+    }
 <h1>
 EY SWA
 </h1>
