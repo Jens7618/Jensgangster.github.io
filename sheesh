@@ -1,12 +1,17 @@
 <!DUCTYPE html>
-<style>
 <head>
-body {
+  <link href="/normalize.css" rel="stylesheet">
+ <style>
+header {
   text-align: center;
       background: url('http://dash.ga.co/assets/jeff-bg.png');
       background-size: cover;
       color: white;
     }
+ </style>
+ </head>
+ <style>
+ <head>
 <h1>
 EY SWA
 </h1>
